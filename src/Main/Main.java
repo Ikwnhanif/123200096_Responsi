@@ -5,6 +5,10 @@
  */
 package Main;
 
+import Main.Controller.ControllerMovie;
+import Main.Controller.ModelMovie;
+import Main.GUI.MovieView;
+
 
 
 /**
